@@ -18,7 +18,7 @@ mavenDirPath的地址换成刚刚clone下来的的库地址
 ## 1.将库的url填入 maven  
 ![163670338-a82460a8-f8f7-47e2-8844-368a55d7e76f](https://user-images.githubusercontent.com/84059192/163787118-f958b520-0a70-4302-bd67-92b945ba41ec.png)
 ## 2.引入依赖
-![image](https://user-images.githubusercontent.com/84059192/163670374-86f23faa-fe78-40ca-b6ca-bbfdbd65ad81.png)
+![163670374-86f23faa-fe78-40ca-b6ca-bbfdbd65ad81](https://user-images.githubusercontent.com/84059192/163787398-bd6fd867-df83-4feb-82a6-439876140af8.png)
 # 有可能出现的问题
 ## 1.Could not find com.android.tools.lint:lint-gradle:30.0.2.
 在项目的根build.gradle中的全局repositories里面添加google()  
