@@ -16,7 +16,7 @@ mavenDirPath的地址换成刚刚clone下来的的库地址
 ### 3.将生成的文件上传gitee
 # 4.如何使用
 ## 1.将库的url填入 maven  
-![1650102376(1)](https://user-images.githubusercontent.com/84059192/163670338-a82460a8-f8f7-47e2-8844-368a55d7e76f.png)
+![163670338-a82460a8-f8f7-47e2-8844-368a55d7e76f](https://user-images.githubusercontent.com/84059192/163787118-f958b520-0a70-4302-bd67-92b945ba41ec.png)
 ## 2.引入依赖
 ![image](https://user-images.githubusercontent.com/84059192/163670374-86f23faa-fe78-40ca-b6ca-bbfdbd65ad81.png)
 # 有可能出现的问题
